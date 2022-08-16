@@ -7,7 +7,7 @@ depersonalization_object_detection4.ipynb - jupyter notebook подготовк�
 
 dod.pdf - презентация решений.
 
-
+events.out.tfevents.1660456976.desktop512.10855.0, events.out.tfevents.1660490137.desktop512.48201.0, events.out.tfevents.1660581341.desktop512.190876.0 - графики обучения модели в формате tensorboard.
 
 Ссылка на веса модели, обученной на данных MS COCO разработчиками yolor-d6: https://drive.google.com/file/d/1WX33ymg_XJLUJdoSf5oUYGHAtpSG2gj8/view 
 
