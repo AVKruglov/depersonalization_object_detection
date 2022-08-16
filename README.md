@@ -5,6 +5,8 @@
 
 depersonalization_object_detection4.ipynb - jupyter notebook подготовки данных и обучения модели нейронной сети yolor-d6.
 
+dod.pdf - презентация решений.
+
 
 
 Ссылка на веса модели, обученной на данных MS COCO разработчиками yolor-d6: https://drive.google.com/file/d/1WX33ymg_XJLUJdoSf5oUYGHAtpSG2gj8/view 
